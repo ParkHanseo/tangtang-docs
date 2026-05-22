@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 환영합니다 (메인)](README.md)
+* [🏝️ 탕탕 아일랜드](README.md)
 * [📚 서버 규칙](rules.md)
 * [📜 서버 명령어](commands.md)
 
