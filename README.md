@@ -14,12 +14,26 @@
 ---
 
 ## 🚀 빠른 시작 (Quick Links)
-아래 링크를 클릭하여 서버의 주요 정보를 확인하세요.
+아래 버튼을 클릭하여 서버의 주요 정보를 확인하세요.
 
-> 💡 **깃북 에디터 팁:** 깃북 웹사이트(Web UI)에서 아래 링크들을 지우고 `/` 키를 눌러 **[Page Link]** 또는 **[Card Grid]** 블록을 삽입한 뒤 연결하시면, 수달농장처럼 예쁜 버튼 모양으로 나타납니다!
-
-* [📚 서버 규칙 확인하기](rules.md)
-* [📜 기본 명령어 모음](commands.md)
-* [💎 보석 세공 시스템](gem_cutting.md)
-* [⛰️ 채광 및 광산 시스템](mining.md)
-* [🚢 무역 및 파견 시스템](trade.md)
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="rules.md"><strong>📚 서버 규칙</strong><br>서버의 핵심 규칙을 확인하세요.</a></td>
+      <td><a href="commands.md"><strong>📜 서버 명령어</strong><br>기본 명령어 모음입니다.</a></td>
+      <td><a href="gem_cutting.md"><strong>💎 보석 세공</strong><br>장신구 제작의 핵심 시스템입니다.</a></td>
+    </tr>
+    <tr>
+      <td><a href="mining.md"><strong>⛰️ 채광 및 광산</strong><br>광물 확률표와 강화 시스템입니다.</a></td>
+      <td><a href="trade.md"><strong>🚢 무역 및 파견</strong><br>무역 보상 및 파견 시스템 안내입니다.</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
