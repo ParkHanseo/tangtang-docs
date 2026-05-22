@@ -1,50 +1,39 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1545579133-99bb5ab189bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxpc2xhbmR8ZW58MHx8fHwxNzc5NDM4MTEzfDA&ixlib=rb-4.1.0&q=85
+coverY: 0
+---
+
 # 🏝️ 탕탕 아일랜드
 
 ## 📖 서버 소개
 
-**"요리·세공·무역 중심의 마인팜, 탕탕 아일랜드!"**
-탕탕 아일랜드는 유저 주도형 '제작과 납품'을 중심으로 정교한 경제 시스템을 자랑하는 특별한 마인팜 서버입니다. 처음 오신 분도 차근차근 나만의 섬을 가꾸며 최고의 거상으로 성장할 수 있습니다.
+**"요리·세공·무역 중심의 마인팜, 탕탕 아일랜드!"** 탕탕 아일랜드는 유저 주도형 '제작과 납품'을 중심으로 정교한 경제 시스템을 자랑하는 특별한 마인팜 서버입니다. 처음 오신 분도 차근차근 나만의 섬을 가꾸며 최고의 거상으로 성장할 수 있습니다.
 
 ### 👨‍🍳 본인 섬의 특산품으로 가치 창출
+
 비법 레시피로 공동 주방에서 엄청난 가치를 지닌 요리를 만들고, 직접 캔 원석을 세공해 눈부신 고가의 보석을 탄생시켜 보세요.
 
 ### 🚢 항구 무역과 전략적 납품
+
 단순한 판매는 그만! 매일 새롭게 업데이트되는 무역선 발주 퀘스트를 확인하세요. 정성껏 만든 아이템을 전략적으로 납품하여 막대한 수익을 올릴 수 있습니다.
 
 ### ⚒️ 특별한 도구와 특수 인챈트
+
 베테랑 대장장이의 전문 도구와 아르카나 공방의 특별한 인챈트를 활용해보세요. 압도적인 작업 효율로 다른 유저들보다 한발 앞서나갈 수 있습니다.
 
----
+***
 
 ## 📌 서버 정보
 
 * **서버 버전:** `1.21.4`
 * **서버 주소:** (정식 오픈 시 디스코드를 통해 안내됩니다)
-* **[💬 디스코드 미리 합류하기 ↗️](https://discord.gg/zztHjtxZwy)**
+* [**💬 디스코드 미리 합류하기 ↗️**](https://discord.gg/zztHjtxZwy)
 
----
+***
 
 ## 🚀 빠른 시작 (Quick Links)
+
 아래 버튼을 클릭하여 서버의 주요 정보를 확인하세요.
 
-<table data-view="cards">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="rules.md"><strong>📚 서버 규칙</strong><br>서버의 핵심 규칙을 확인하세요.</a></td>
-      <td><a href="commands.md"><strong>📜 서버 명령어</strong><br>기본 명령어 모음입니다.</a></td>
-      <td><a href="gem_cutting.md"><strong>💎 보석 세공</strong><br>장신구 제작의 핵심 시스템입니다.</a></td>
-    </tr>
-    <tr>
-      <td><a href="mining.md"><strong>⛰️ 채광 및 광산</strong><br>광물 확률표와 강화 시스템입니다.</a></td>
-      <td><a href="trade.md"><strong>🚢 무역 및 파견</strong><br>무역 보상 및 파견 시스템 안내입니다.</a></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="rules.md"><strong>📚 서버 규칙</strong><br>서버의 핵심 규칙을 확인하세요.</a></td><td><a href="commands.md"><strong>📜 서버 명령어</strong><br>기본 명령어 모음입니다.</a></td><td><a href="gem_cutting.md"><strong>💎 보석 세공</strong><br>장신구 제작의 핵심 시스템입니다.</a></td></tr><tr><td><a href="mining.md"><strong>⛰️ 채광 및 광산</strong><br>광물 확률표와 강화 시스템입니다.</a></td><td><a href="trade.md"><strong>🚢 무역 및 파견</strong><br>무역 보상 및 파견 시스템 안내입니다.</a></td><td></td></tr></tbody></table>
